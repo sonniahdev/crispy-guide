@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af5308a3-66a6-4a7d-98dd-6ae991ae906b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/perpetual.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arithmetic_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if.statement-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if.statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise7.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Dictionaries">
+  <component name="RunManager" selected="Python.exercise7">
     <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="perpetual" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise7" />
         <item itemvalue="Python.Dictionaries" />
         <item itemvalue="Python.Set" />
         <item itemvalue="Python.Tuples" />
         <item itemvalue="Python.list" />
-        <item itemvalue="Python.exercise7" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +200,10 @@
       <workItem from="1677069553796" duration="2242000" />
       <workItem from="1677072221297" duration="1354000" />
       <workItem from="1677084699614" duration="860000" />
-      <workItem from="1677152317204" duration="4833000" />
+      <workItem from="1677152317204" duration="7733000" />
+      <workItem from="1677173226312" duration="7000" />
+      <workItem from="1677173359295" duration="1471000" />
+      <workItem from="1677239227545" duration="395000" />
     </task>
     <servers />
   </component>
@@ -232,7 +218,7 @@
     <SUITE FILE_PATH="coverage/perpetual$Set.coverage" NAME="Set Coverage Results" MODIFIED="1677156682638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
     <SUITE FILE_PATH="coverage/perpetual$list.coverage" NAME="list Coverage Results" MODIFIED="1677155655775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DSA" />
     <SUITE FILE_PATH="coverage/perpetual$if_statement_2.coverage" NAME="if.statement-2 Coverage Results" MODIFIED="1677070387557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/perpetual$exercise7.coverage" NAME="exercise7 Coverage Results" MODIFIED="1677154605095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/perpetual$exercise7.coverage" NAME="exercise7 Coverage Results" MODIFIED="1677174220451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/perpetual$arithmetic_operators.coverage" NAME="arithmetic_operators Coverage Results" MODIFIED="1677067262173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/perpetual$Exercise_3.coverage" NAME="Exercise_3 Coverage Results" MODIFIED="1677067956001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
